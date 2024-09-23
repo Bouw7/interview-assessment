@@ -13,4 +13,8 @@ repository in your own GitHub account. Once you have completed the assessment,
 send the link to the repository to the email address provided to you during the
 interview.
 
+> [!CAUTION]
+> Do **NOT** fork this repository or create pull requests, as this would make it
+> trivial for anyone to see your submission.
+
 Good luck!
