@@ -1,0 +1,16 @@
+Interview Assessment for PHP and Typescript
+===========================================
+
+This is a simple assessment to evaluate your skills in PHP and Typescript. You
+will be asked to implement a simple application in either one or both languages.
+
+The requirements are in the README.md file in the respective directories.
+
+## Submission
+
+Use the ***Use this template*** button at the top of the page to create a new
+repository in your own GitHub account. Once you have completed the assessment,
+send the link to the repository to the email address provided to you during the
+interview.
+
+Good luck!
