@@ -8,7 +8,7 @@ The requirements are in the README.md file in the respective directories.
 
 ## Submission
 
-Use the ***Use this template*** button at the top of the page to create a new
+Use the [***Use this template***](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template#creating-a-repository-from-a-template) button at the top of the page to create a new
 repository in your own GitHub account. Once you have completed the assessment,
 send the link to the repository to the email address provided to you during the
 interview.
